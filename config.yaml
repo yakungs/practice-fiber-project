@@ -1,0 +1,8 @@
+app: port:8000
+
+db:
+  driver: "mysql"
+  port: 8000
+  username: root
+  password: 1234
+  database: db_bank
